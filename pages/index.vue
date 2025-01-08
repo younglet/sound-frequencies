@@ -1,5 +1,5 @@
 <template>
-    <h1 class="text-center font-bold text-2xl p-4 text-blue-500 select-none">
+    <h1 class="text-center font-bold text-2xl p-10 text-blue-500 select-none">
         <span>
             自定义频率音乐键盘
         </span>
